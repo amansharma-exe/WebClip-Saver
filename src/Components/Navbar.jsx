@@ -5,7 +5,7 @@ export function NavBar() {
     <Containers>
       <header className="bg-dark d-flex justify-content-center">
         <ul className="nav nav-pills">
-          <li className="nav-item">
+          <li className="nav-item ">
             <a href="#" className="titlename" aria-current="page">
               <h1>WebClipSaver</h1>
             </a>

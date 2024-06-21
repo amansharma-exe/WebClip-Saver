@@ -28,8 +28,8 @@ export function Footer() {
               </a>
             </li>
           </ul>
-          <p className="text-center text-muted">
-            Developed By : Shashank Mahawar
+          <p className="text-center text-muted text-md">
+            Developed By : Aman Sharma
           </p>
         </footer>
       </div>
